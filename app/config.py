@@ -1,0 +1,4 @@
+
+## Google Firebase Cloud Messaging API Token 
+
+API_KEY="AAAAodRycdw:APA91bGZZf3CB-E9imxBnEBFssprWv8tIOwvMtO6G0AWTNrwH3BSJPPaVbkWtU2k8_NZqE4u3PvYqzPSCME0ITJ6HlFEVtP8aaHhxQWaat4LIAxmaDEeOMj_4XR-hqYALjWU8ZNbgiNm"
